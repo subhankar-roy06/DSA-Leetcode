@@ -3,3 +3,4 @@ class Solution:
         smallest = min(nums)
         largest = max(nums)
         return math.gcd(smallest, largest)
+        
